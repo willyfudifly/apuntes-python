@@ -1,5 +1,5 @@
-# apuntes-python
-Mis apuntes de python
+# Apuntes de Python
+Mis apuntes de Python
 
 ## Print
 
